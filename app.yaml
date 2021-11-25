@@ -1,0 +1,6 @@
+runtime: nodejs10
+
+env_variables:
+  APP_ENV: prod
+  APP_SECRET: motsecret
+  
